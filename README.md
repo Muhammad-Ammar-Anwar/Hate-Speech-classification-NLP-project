@@ -6,8 +6,8 @@
 Python -m venv hate 
 '''
 
-''' bash
-python activate hate
+'''bash
+hate\Scripts\activate
 '''
 
 '''bash
