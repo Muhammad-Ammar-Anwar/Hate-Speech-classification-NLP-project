@@ -2,8 +2,8 @@
 
 ## how to run ?
 
-''' bash
-python create -n hate python=3.8 -y
+'''bash
+Python -m venv hate 
 '''
 
 ''' bash
