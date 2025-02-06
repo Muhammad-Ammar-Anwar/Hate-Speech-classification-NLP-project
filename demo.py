@@ -4,8 +4,10 @@ import sys
 
 
 #logging.info("Welcome to our Project")
-try:
-    a=7/"0"
+#try:
+#    a=7/"0"
 
-except Exception as e:
-    raise CustomException(e,sys) from e
+#except Exception as e:
+#    raise CustomException(e,sys) from e
+
+from hate.configuration.gcloud_syncer import GCloudSync
