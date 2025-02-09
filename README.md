@@ -2,14 +2,14 @@
 
 ## how to run ?
 
-'''bash
+'''bash 
 Python -m venv hate 
 '''
 
-'''bash
+'''bash 
 hate\Scripts\activate
 '''
 
-'''bash
+'''bash 
 pip install -r requirements
 '''
